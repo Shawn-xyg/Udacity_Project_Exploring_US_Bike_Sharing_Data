@@ -2,7 +2,7 @@
 The project involves using Python to analyze a set of US Bike Sharing data. 
 
 # Summary
-* This process will be done using a Jupyter Notebook.
+* This process was be done using a Jupyter Notebook.
 * Appropriate use of
   * data structures/types
   * loops/conditional statements
@@ -26,4 +26,4 @@ The jupyter notebook will be exported to PDF and submitted as a github repositor
 
 
 # References and Citations
-No major references were used for this project. 
+No other resources were used for this project. 
